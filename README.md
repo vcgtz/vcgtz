@@ -1,21 +1,21 @@
 ## Hello there! I'm Vicente 👋
-
-I'm a Software Engineer based in Mexico. I'm working at Incfile as a **backend engineer** and ~~a fullstack engineer~~.
+:large_blue_circle: Lead Software Engineer at Incfile <br>
+:earth_americas: Based on Mexico 🇲🇽
 
 I've been working as a developer since 2014. I work with languages like **PHP**, **JavaScript**, and **Python**. I feel more comfortable working on the _backend_ but I can work as a _fullstack_ as well.
 
 ### I'm focused on...
-_JavaScript_, _NodeJS_, and _TypeScript_.
-
-### I'm currently learning...
-_ReactJS_
+_JavaScript_, _NodeJS_, _TypeScript_, and _Go_.
 
 ### How to reach me:
- - 🌐 [My Website](https://vicentegtz.com/)
-- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/vicentegtz/)
+🌐 [Personal Blog](https://vicentegtz.com/) <br>
+👨‍💼 [LinkedIn](https://www.linkedin.com/in/vicentegtz/)
 
 <!--
 **vcgtz/vcgtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### What I'm working on...
+_ReactJS_
 
 Here are some ideas to get you started:
 
