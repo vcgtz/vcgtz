@@ -9,7 +9,8 @@ _JavaScript_, _NodeJS_, _TypeScript_, and _Go_.
 
 ### How to reach me:
 🌐 [Personal Blog](https://vicentegtz.com/) <br>
-👨‍💼 [LinkedIn](https://www.linkedin.com/in/vicentegtz/)
+👨‍💼 [LinkedIn](https://www.linkedin.com/in/vicentegtz/) <br>
+:file_folder: [NPM Packages](https://www.npmjs.com/~vcgtz)
 
 <!--
 **vcgtz/vcgtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
