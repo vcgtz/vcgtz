@@ -5,7 +5,7 @@
 I've been working as a developer since 2014. I work with languages like **PHP**, **JavaScript**, and **Python**. I feel more comfortable working on the _backend_ but I can work as a _fullstack_ as well.
 
 ### I'm focused on...
-_JavaScript_, _NodeJS_, _TypeScript_, and _Go_.
+_JavaScript_, _NodeJS_, and _TypeScript_.
 
 ### How to reach me:
 🌐 [Personal Blog](https://vicentegtz.com/) <br>
