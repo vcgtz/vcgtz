@@ -8,7 +8,7 @@ I've been working as a developer since 2014. I work with languages like **PHP**,
 _JavaScript_, _NodeJS_, and _TypeScript_.
 
 ### How to reach me:
-🌐 [Personal Blog](https://vicentegtz.com/) <br>
+🌐 [Personal Blog](https://vicentegtz.com/) _*(In Spanish 🇲🇽🇪🇸)_ <br>
 👨‍💼 [LinkedIn](https://www.linkedin.com/in/vicentegtz/) <br>
 :file_folder: [NPM Packages](https://www.npmjs.com/~vcgtz)
 
