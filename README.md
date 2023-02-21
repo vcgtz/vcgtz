@@ -8,7 +8,7 @@ I've been working as a software engineer since 2014. I've work with languages li
 _JavaScript_, _TypeScript_, _NodeJS_, and _Python_.
 
 ### How to reach me:
-[Personal Blog](https://vicentegtz.com/) _(in Spanish)_ <br>
+[Personal Website](https://vcgtz.com/) _(in Spanish)_ <br>
 [LinkedIn](https://www.linkedin.com/in/vicentegtz/) <br>
 
 <!--
