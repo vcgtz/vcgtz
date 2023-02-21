@@ -1,16 +1,15 @@
-## Hello there! I'm Vicente 👋
+## Hello there! I'm Vicente 🚀
 :large_blue_circle: Lead Software Engineer at Incfile <br>
 :earth_americas: Based on Mexico 🇲🇽
 
-I've been working as a developer since 2014. I work with languages like **PHP**, **JavaScript**, and **Python**. I feel more comfortable working on the _backend_ but I can work as a _fullstack_ as well.
+I've been working as a software engineer since 2014. I've work with languages like **PHP**, **JavaScript**, and **Python**, and frameworks like **Laravel** and **NodeJS**. I feel more comfortable working on the _backend_ but I can work as a _fullstack_ as well.
 
 ### I'm focused on...
-_JavaScript_, _NodeJS_, and _TypeScript_.
+_JavaScript_, _TypeScript_, _NodeJS_, and _Python_.
 
 ### How to reach me:
-🌐 [Personal Blog](https://vicentegtz.com/) _*(In Spanish 🇲🇽🇪🇸)_ <br>
-👨‍💼 [LinkedIn](https://www.linkedin.com/in/vicentegtz/) <br>
-:file_folder: [NPM Packages](https://www.npmjs.com/~vcgtz)
+[Personal Blog](https://vicentegtz.com/) _(in Spanish)_ <br>
+[LinkedIn](https://www.linkedin.com/in/vicentegtz/) <br>
 
 <!--
 **vcgtz/vcgtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
