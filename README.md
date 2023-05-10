@@ -5,7 +5,8 @@
 
 ### How to reach me:
 :globe_with_meridians: [My Personal Website](https://vcgtz.com/) <br>
-:globe_with_meridians: [My Blog](https://codecraftershub.com/) <br>
+:globe_with_meridians: [My Blog (Spanish)](https://codecraftershub.com/) <br>
+:globe_with_meridians: [My Blog (English)](https://dotruntime.com/) <br>
 :briefcase: [LinkedIn](https://www.linkedin.com/in/vicentegtz/) <br>
 
 <!--
