@@ -4,6 +4,7 @@
 :arrow_right: Righ now I'm focused on **JavaScript**, **TypeScript**, **NodeJS**, and **Go**. <br>
 
 ### How to reach me:
+:envelope: vicente@dotruntime.com <br>
 :globe_with_meridians: [My Personal Website](https://vcgtz.com/) <br>
 :globe_with_meridians: [My Blog (Spanish)](https://codecraftershub.com/) <br>
 :globe_with_meridians: [My Blog (English)](https://dotruntime.com/) <br>
