@@ -1,5 +1,5 @@
 ## Hi there! I'm Vicente Gutiérrez
-:large_blue_circle: Lead Software Engineer at Incfile <br>
+:computer: Software Engineer at Incfile <br>
 :earth_americas: Based on Mexico 🇲🇽 <br>
 :arrow_right: Righ now I'm focused on **JavaScript**, **TypeScript**, **NodeJS**, and **Go**. <br>
 
