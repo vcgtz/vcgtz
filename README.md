@@ -5,7 +5,7 @@
 
 ### How to reach me:
 :envelope: vicente@dotruntime.com <br>
-:globe_with_meridians: [My Blog (English)](https://dotruntime.com/) <br>
+:globe_with_meridians: [My Blog](https://dotruntime.com/) <br>
 :briefcase: [LinkedIn](https://www.linkedin.com/in/vicentegtz/) <br>
 
 <!--
