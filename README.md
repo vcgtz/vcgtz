@@ -1,7 +1,7 @@
 ## Hi there! I'm Vicente Gutiérrez
-:computer: Software Engineer at Incfile <br>
+:computer: Backend Engineer at Baubap <br>
 :earth_americas: Based on Mexico 🇲🇽 <br>
-:arrow_right: Righ now I'm focused on **Node.js**, **TypeScript**, and **Python** <br>
+:arrow_right: Righ now I'm focused on **Python**, **FastAPI**, and **PHP** <br>
 
 ### How to reach me:
 :envelope: vicente@dotruntime.com <br>
