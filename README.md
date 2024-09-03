@@ -1,7 +1,7 @@
 ## Hi there! I'm Vicente Gutiérrez
-:computer: Backend Engineer at Baubap <br>
+:computer: Sr Software Engineer at Bizee <br>
 :earth_americas: Based on Mexico 🇲🇽 <br>
-:arrow_right: Righ now I'm focused on **Python**, **FastAPI**, and **PHP** <br>
+:arrow_right: Righ now I'm focused on **Python**, **FastAPI**, and **TypeScript** <br>
 
 ### How to reach me:
 :envelope: vicente@dotruntime.com <br>
