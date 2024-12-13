@@ -4,9 +4,9 @@
 :arrow_right: Righ now I'm focused on **Python**, **FastAPI**, and **TypeScript** <br>
 
 ### How to reach me:
-:envelope: vicente@dotruntime.com <br>
-:globe_with_meridians: [My Blog](https://dotruntime.com/) <br>
-:briefcase: [LinkedIn](https://www.linkedin.com/in/vicentegtz/) <br>
+:envelope: hello@vicentegtz.com <br>
+:globe_with_meridians: [My Blog](http://vicentegtz.com/) <br>
+:briefcase: [LinkedIn](https://www.linkedin.com/in/vcgtz/) <br>
 
 <!--
 :globe_with_meridians: [My Personal Website](https://vcgtz.com/) <br>
